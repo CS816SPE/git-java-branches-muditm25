@@ -15,6 +15,13 @@ public class Calculator {
 			{
 				case '1': result=a+b;
 					  break;
+				case '3': result=a*b;
+						break;
+
+
+
+
+
 
 
 
